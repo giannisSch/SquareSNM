@@ -22,3 +22,5 @@ Sometimes code does not find the largest square at steps 2.1 and step 2.3. If th
 
 # Authors
 - Schoinochoritis Ioannis
+# Contact
+- Email: g.sxoin@hotmail.com
