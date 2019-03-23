@@ -3,7 +3,7 @@
 This is a code written with Matlab where calculate the length of the side of the largest square that can be inscribed between 2 curves.
 This code have been written to calculate static noise margins of a sram cell. The static noise margin (SNM) measures how much noise can be applied to the inputs of the two cross-coupled inverters before a stable state is lost (during hold or read) or a second stable state is created (during write). The static noise margin can be determined graphically from a butterﬂy diagram like figure below.
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://raw.githubusercontent.com/giannisSch/SquareSNM/branch/result.png)
 
 
 
