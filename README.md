@@ -6,8 +6,8 @@ This code have been written to calculate static noise margins of a sram cell. Th
 
 ## Getting Started
   - Extract data from your simulations
-    -- .csv file for curve I
-    -- .csv file for curve II
+    - .csv file for curve I
+    - .csv file for curve II
 
 # Running the code
  1) Change the path of .csv files
